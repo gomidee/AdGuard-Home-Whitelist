@@ -7,8 +7,20 @@
 @@||clear.com.br^
 @@||xpi.com.br^
 @@||gomidee.com^
+@@||trademap.com.br^
+@@||fundamentei.com^
+@@||statusinvest.com.br^
 
 ! Tech 
 @@||tailscale.com^
 @@||vid.puffyan.us^
 @@||github.com^
+@@||linode.com^
+@@||1984.hosting^
+
+! Clothesss
+@@||clothesss.com^
+@@||dynadot.com^
+@@||godaddy.com^
+@@||bigcartel.com^
+@@||stripe.com^
