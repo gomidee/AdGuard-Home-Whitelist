@@ -11,3 +11,4 @@
 ! Tech 
 @@||tailscale.com^
 @@||vid.puffyan.us^
+@@||github.com^
