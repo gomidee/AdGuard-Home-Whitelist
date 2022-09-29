@@ -1,0 +1,13 @@
+! News
+@@||infomoney.com.br^
+@@||bloomberg.com^
+@@||g1.globo.com^
+
+! Finance
+@@||clear.com.br^
+@@||xpi.com.br^
+@@||gomidee.com^
+
+! Tech 
+@@||tailscale.com^
+@@||vid.puffyan.us^
