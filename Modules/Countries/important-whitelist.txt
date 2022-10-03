@@ -19,6 +19,14 @@
 @@||1984.hosting^
 @@||youtube.com
 
+! Stuff
+
+@@||assets.bwbx.io^$important
+@@||bloomberg.map.fastly.net^$important
+@@||user-images.githubusercontent.com^$important
+@@||github-cloud.s3.amazonaws.com^$important
+@@||avatars.githubusercontent.com^$important
+
 ! Clothesss
 @@||clothesss.com^
 @@||dynadot.com^
